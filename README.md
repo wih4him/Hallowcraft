@@ -1,9 +1,4 @@
 # Hallowcraft
-Hallowcraft: a Halloween BEEmod pack for the Portal 2 Puzzle Maker. Work in progress, started on Halloween 2026
-
-https://github.com/wih4him/Hallowcraft/edit/main/README.md
-
-# Hallowcraft
 
 A Halloween item pack for BEEmod, for Portal 2's Puzzle Maker.
 
