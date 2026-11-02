@@ -13,6 +13,20 @@ Seven logic parts for your test chambers:
 - **Redrock Torch** and **Light Torch**
 - **Pulse Generator** (Pulser, Wave-Pulser and Short-Wave modes, each length set by its timer) and **True One-Shot**
 
+## Pictures
+
+### The Stack-o-Lantern's forms
+
+Every form lit, dark and locked, each beside its partner. The Cube Type picks the form, and Start Active turns it into its special form: the Glowrock Block, the Redrock Block, the Jack-O-Melon, the Funnel-Cake and the special Block Cake.
+
+![Every Stack-o-Lantern form, lit, dark and locked](images/stack-o-lantern-forms.png)
+
+### In the Puzzle Maker
+
+The model each item shows in the Puzzle Maker. The Stack-o-Lantern has one for each Cube Type.
+
+![The Puzzle Maker model of every Hallowcraft item](images/puzzle-maker-models.png)
+
 ## Requirements
 
 - Portal 2
