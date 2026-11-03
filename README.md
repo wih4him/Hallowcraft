@@ -17,7 +17,7 @@ Seven logic parts for your test chambers:
 
 ### The Stack-o-Lantern's forms
 
-Every form lit, dark and locked, each beside its partner. The Cube Type picks the form, and Start Active turns it into its special form: the Glowrock Block, the Redrock Block, the Jack-O-Melon, the Funnel-Cake and the special Block Cake.
+Every form lit, dark and locked, each beside its partner. The Cube Type picks the form, and Start Active turns it into its special form: the Glowrock Block (with Start Reversed, the Glowrock Lamp), the Redrock Block, the Jack-O-Melon, the Funnel-Cake and the special Block Cake.
 
 ![Every Stack-o-Lantern form, lit, dark and locked](images/stack-o-lantern-forms.png)
 
