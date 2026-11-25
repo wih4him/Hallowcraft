@@ -1,5 +1,7 @@
 # Hallowcraft
 
+> **This pack now lives in [BEEmod-Beepacks](https://github.com/wih4him/BEEmod-Beepacks/tree/main/Hallowcraft).** This repository is kept as it was and is no longer updated; its links and downloads still work.
+
 A Halloween item pack for BEEmod, for Portal 2's Puzzle Maker.
 
 **Work in progress.** Nothing has been released yet. This repository was started on Halloween 2026, and the first release will be posted under Releases when it is ready.
